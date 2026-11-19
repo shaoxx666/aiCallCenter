@@ -16,9 +16,9 @@
 </p>
 <p align="center">
     <a href="#技术栈与关键组件">技术栈与关键组件</a> ·
-    <a href="#documentation">Docs</a> ·
-    <a href="https://voicestudio.sh/pro?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=project">VoiceStudio Pro</a> ·
-    <a href="https://app.voicestudio.sh/?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=project">VoiceStudio Cloud</a>
+    <a href="#系统架构">系统架构</a> ·
+    <a href="#在线Demo">在线Demo</a> ·
+    <a href="#企业定制合作">企业合作</a>
 </p>
 <p align="center">
   [<a href="README.md">中文（简体）</a>] | [<a href="README.md">English</a>]
@@ -55,6 +55,15 @@
 - **ESL 客户端**：通过 Java Netty 实现与 FreeSWITCH 的交互。
   
 ### 系统架构
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="docs/architecture_overview_freeswitch.png"  width="100%" />
+      <br/>
+      架构部署图.
+    </td>
+  </tr>
+</table>
 
 ### 在线Demo
 - 话务系统在线 Demo：http://118.195.135.225/ui     （自动登陆账号为普通用户权限）
@@ -92,16 +101,25 @@
   </tr>
 </table>
 
-## 🏢 企业定制合作
+## 企业定制合作
 
-需要**私有化部署、二次开发、团队培训、SLA 保障**等深度合作？可提供专属方案与报价：
+需要**私有化部署、二次开发、团队培训**等深度合作？可提供专属方案与报价：
 
 - 私有化 / 内网环境部署
 - 业务场景定制开发与系统集成
 - 团队培训与知识转移
-- 技术支持与 SLA 服务
+- 技术支持与服务
 
-联系作者微信 `vxhqqh`，获取专属方案与报价。
+联系作者微信，获取专属方案与报价。
+<table>
+  <tr>
+    <td width="400px" height="400px" valign="top">
+      <img src="docs/wx.jpg" />
+      <br/>
+      联系我
+    </td>
+  </tr>
+</table>
 
 # 部署运行
 ```bash
