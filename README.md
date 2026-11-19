@@ -1,11 +1,11 @@
 
 
-<h1 align="center">🧠 Ai Call Center</h1>
+<h1 align="center">🧠 Ai Call Center 大模型呼叫</h1>
 
 <p align="center">
   <b> Knowledge Brain for Java</b> —— 让 Java 团队零门槛拥有企业级 AI 呼叫中心系统<br/>
   基于 <b>Java 17 + Spring Boot 3 </b>构建的开箱即用、模型中立的 <b>RAG + LLM 呼叫中心系统</b><br/>
-  <sub>智能客服 · 企业知识库 · 数据分析 · 学术研究与教育</sub>
+  <sub>Call Center，Contact Center，呼叫中心，客服系统，工单系统，智能外呼，大模型呼叫中心，智能呼叫中心，RAG搜索模块，AI；FreeSWITCH，LLM Call Center,AI Call Center,大模型呼叫中心,大模型客服系统，可以对接市面上主流模型与私有模型等！</sub>
 </p>
 
 <p align="center">
