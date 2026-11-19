@@ -14,7 +14,12 @@
   <a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/Spring%20Boot-3.x-brightgreen" alt="SpringBoot3"></a>
   <a href="https://github.com/langchain4j/langchain4j"><img src="https://img.shields.io/badge/LangChain4j-1.x-green" alt="LangChain4j"></a>
 </p>
-
+<p align="center">
+    <a href="## 技术栈与关键组件">技术栈与关键组件</a> ·
+    <a href="#documentation">Docs</a> ·
+    <a href="https://voicestudio.sh/pro?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=project">VoiceStudio Pro</a> ·
+    <a href="https://app.voicestudio.sh/?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=project">VoiceStudio Cloud</a>
+</p>
 <p align="center">
   [<a href="README_CN.md">中文（简体）</a>] | [<a href="README.md">English</a>]
 </p>
@@ -36,7 +41,7 @@
 
 
 
-## 三、技术栈与关键组件
+## 技术栈与关键组件
 
 ### 后端技术栈
 - **框架**：Spring Boot 3.3.1、MyBatis-Plus、Spring Security、SA-TOKEN。
