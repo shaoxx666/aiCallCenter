@@ -21,7 +21,7 @@
     <a href="https://app.voicestudio.sh/?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=project">VoiceStudio Cloud</a>
 </p>
 <p align="center">
-  [<a href="README.md">中文（简体）</a>] | [<a href="README_EN.md">English</a>]
+  [<a href="README.md">中文（简体）</a>] | [<a href="README.md">English</a>]
 </p>
 
 ## ✨ 呼叫中心核心能力
@@ -70,24 +70,24 @@
     <td width="50%" valign="top">
       <img src="docs/cc-index.png"  width="100%" />
       <br/>
-      Turn a clean reference recording into speech in a familiar voice.
+      话务系统首页.
     </td>
     <td width="50%" valign="top">
       <img src="docs/cc-ivr-deubg.png"  width="100%" />
       <br/>
-      Turn a clean reference recording into speech in a familiar voice.
+      IVR工作流可视化编辑，及在线调试.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
        <img src="docs/ticket-index.png"  width="100%" />
       <br/>
-      Turn a clean reference recording into speech in a familiar voice.
+      工单系统首页.
     </td>
     <td width="50%" valign="top">
      <img src="docs/ticket-view.png"  width="100%" />
       <br/>
-      Turn a clean reference recording into speech in a familiar voice.
+      可单流转轨迹追踪.
     </td>
   </tr>
 </table>
