@@ -3,14 +3,13 @@
 <h1 align="center">🧠 Ai Call Center</h1>
 
 <p align="center">
-  <b> Knowledge Brain for Java</b> —— 让 Java 团队零门槛拥有企业级 AI 大脑<br/>
-  基于 <b>Java 21 + Spring Boot 3（虚拟线程）</b>构建的开箱即用、模型中立的 <b>RAG + LLM 工作流引擎</b><br/>
+  <b> Knowledge Brain for Java</b> —— 让 Java 团队零门槛拥有企业级 AI 呼叫中心系统<br/>
+  基于 <b>Java 17 + Spring Boot 3 </b>构建的开箱即用、模型中立的 <b>RAG + LLM 呼叫中心系统</b><br/>
   <sub>智能客服 · 企业知识库 · 数据分析 · 学术研究与教育</sub>
 </p>
 
 <p align="center">
-  <a href="https://www.gnu.org/licenses/gpl-3.0.html"><img src="https://img.shields.io/badge/License-GPLv3-blue" alt="GPLv3"></a>
-  <a href="https://openjdk.org/projects/jdk/21/"><img src="https://img.shields.io/badge/Java-21%2B-green" alt="Java21plus"></a>
+  <a href="https://openjdk.org/projects/jdk/17/"><img src="https://img.shields.io/badge/Java-17%2B-green" alt="Java21plus"></a>
   <a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/Spring%20Boot-3.x-brightgreen" alt="SpringBoot3"></a>
   <a href="https://github.com/langchain4j/langchain4j"><img src="https://img.shields.io/badge/LangChain4j-1.x-green" alt="LangChain4j"></a>
 </p>
@@ -54,7 +53,7 @@
 - **Kamailio**：SIP 代理服务器，实现负载均衡与安全防护。
 - **ESL 客户端**：通过 Java Netty 实现与 FreeSWITCH 的交互。
   
-### 系统架构
+## 系统架构
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -65,7 +64,7 @@
   </tr>
 </table>
 
-# 系统截图
+## 系统截图
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -93,7 +92,7 @@
   </tr>
 </table>
 
-### 在线Demo
+## 在线Demo
 - 话务系统在线 Demo：http://118.195.135.225/ui     （自动登陆账号为普通用户权限）
 - 工单系统在线 Demo：http://118.195.135.225/tk  （自动登陆账号为普通用户权限）
 
@@ -106,8 +105,7 @@
 
 - 私有化 / 内网环境部署
 - 业务场景定制开发与系统集成
-- 团队培训与知识转移
-- 技术支持与服务
+- 源码合作
 
 联系作者微信，获取专属方案与报价。
 <table>
@@ -119,16 +117,6 @@
     </td>
   </tr>
 </table>
-
-# 部署运行
-```bash
-$ mkdir <your-project-name>
-$ cd <your-project-name>
-$ yarn create umi  # or npm create umi
-
-$ npm install
-$ npm start         # visit http://localhost:8000
-```
 
 
 
