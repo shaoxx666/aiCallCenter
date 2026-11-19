@@ -21,7 +21,7 @@
     <a href="https://app.voicestudio.sh/?utm_source=github&amp;utm_medium=readme&amp;utm_campaign=project">VoiceStudio Cloud</a>
 </p>
 <p align="center">
-  [<a href="README_CN.md">中文（简体）</a>] | [<a href="README.md">English</a>]
+  [<a href="README.md">中文（简体）</a>] | [<a href="README_EN.md">English</a>]
 </p>
 
 ## ✨ 呼叫中心核心能力
@@ -64,6 +64,34 @@
 - **产品演进** 本团队深耕呼叫中心行业经验15年，大模型呼叫中心迭代5年以上由早期智能客服项目，演进到以python为核心的大模型产品，于近期再次迭代到以java为主要架构的产品
 - **客户行业** 分布于运营商，知名高校，水利，供暖集团
 
+# 系统截图
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="docs/cc-index.png"  width="100%" />
+      <br/>
+      Turn a clean reference recording into speech in a familiar voice.
+    </td>
+    <td width="50%" valign="top">
+      <img src="docs/cc-ivr-deubg.png"  width="100%" />
+      <br/>
+      Turn a clean reference recording into speech in a familiar voice.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+       <img src="docs/ticket-index.png"  width="100%" />
+      <br/>
+      Turn a clean reference recording into speech in a familiar voice.
+    </td>
+    <td width="50%" valign="top">
+     <img src="docs/ticket-view.png"  width="100%" />
+      <br/>
+      Turn a clean reference recording into speech in a familiar voice.
+    </td>
+  </tr>
+</table>
+
 # 部署运行
 ```bash
 $ mkdir <your-project-name>
@@ -73,7 +101,6 @@ $ yarn create umi  # or npm create umi
 $ npm install
 $ npm start         # visit http://localhost:8000
 ```
-# 系统截图
-![image](https://github.com/shaoxx666/call-center-ui/blob/main/1.png)
-![image](https://github.com/shaoxx666/call-center-ui/blob/main/2.png)
+
+
 
